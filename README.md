@@ -1,4 +1,4 @@
-message
+Message
 =======
 
-Flash messages for Kohana.
+A simple "flash message" system for Kohana, originally made by [Geert De Deckere](http://geertdedeckere.be/).
